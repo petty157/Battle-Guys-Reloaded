@@ -1,4 +1,4 @@
-# Battle Guys Reloaded™
+# Battle Guys Reloaded
 
 **A Ghost Saves™ project by Petty**
 
